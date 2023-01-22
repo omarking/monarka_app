@@ -93,7 +93,7 @@ es necesario una interfaz para cada modelo (para mejor orden).
 - Este archivo es de mucha importancia pues es el encargado de almacenar la informacion cuando inicias sesion, esto para mentener tu sesion iniciada o almacenar 
 informacion sobre tus acciones en la aplicacion.
 
-### CARPETA RES
+### Carpeta RES
 En esta carpeta encontraras todos recursos de la aplicacion, desde imagenes, colores, layouts, etc.
 
 
